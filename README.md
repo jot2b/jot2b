@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jot2b
+- 👀 I’m interested in creating and developing FUN games for all ages
+- 🌱 I’m currently learning how to code in Game Maker
+- 💞️ I’m looking to collaborate on making FUN games
+- 📫 How to reach me: email jot2bme@gmail.com
